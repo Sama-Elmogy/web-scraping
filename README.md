@@ -1,0 +1,1 @@
+A Python web scraper that extracts job listings from Wuzzuf.net for data science and machine learning positions in Egypt and the Middle East. This project demonstrates practical web scraping skills using Beautiful Soup to collect job market data for analysis.
